@@ -49,4 +49,6 @@ This project is **open-source** and available under the **MIT License**.
 
 🚀 **Happy Coding & Algorithm Visualization!** 🎨  
 
+![screencapture-localhost-8080-race-mode-2025-03-19-10_05_39](https://github.com/user-attachments/assets/213fb2e9-997c-4b3d-af78-2bfc083b8bba)
+![screencapture-localhost-8080-2025-03-19-10_04_59](https://github.com/user-attachments/assets/0ed72cfb-fcc2-4b9d-a0e3-9bada63ca901)
 
