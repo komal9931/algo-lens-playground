@@ -26,24 +26,6 @@ AlgoLens is a powerful **algorithm visualization** and **performance analysis** 
 
 ---
 
-## 🚀 Installation & Setup  
-
-### 1️⃣ Clone the repository  
-```sh
-git clone https://github.com/pawarsarth/Algo_lens.git
-cd Algo_lens
-```
-
-### 2️⃣ Install dependencies  
-```sh
-npm install
-```
-
-### 3️⃣ Start the development server  
-```sh
-npm run dev
-```
-The project will be available at `http://localhost:5173/`.  
 
 ---
 
